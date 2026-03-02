@@ -16,11 +16,9 @@ PDF Documents → Text Chunking → Embeddings → Vector Database → Retrieval
 ## 📂 Dataset
 
 - Multiple Software Engineering PDFs used:
-  - BSCIT_SE.pdf
-  - SE_Book.pdf
   - SE_NOTES.pdf
   - SE_NOTES_2.pdf
-- Total content: 200+ pages
+- Total content: 124 pages
 - Covers topics like:
   - SDLC
   - Agile Model
@@ -100,11 +98,16 @@ Improved prompting is more effective for academic Q&A.
 
 ## 📊 Sample Questions
 
-- What is Software Engineering?
-- What is SDLC?
-- Explain Agile model
-- Difference between Agile and Waterfall
-- What is software testing?
+- "What is Software Engineering?",
+- "What is SDLC?",
+- "Explain Agile model",
+- "What is Waterfall model?",
+- "Difference between Agile and Waterfall",
+- "What is software testing?",
+- "What is requirement analysis?",
+- "What is design phase?",
+- "What is maintenance phase?",
+- "What is debugging?"
 
 ---
 
